@@ -1,2 +1,2 @@
 # ProjetoSENAI
-Alunas de DS 
+Alunas do SENAI, cursando Desenvolvimento de Sistemas
