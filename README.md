@@ -1,7 +1,5 @@
    ProjetoSENAI
-Alunas do SENAI, cursando Desenvolvimento de Sistemas, criaram este espaço para desenvolver novos projetos de programação.
-
-Sememáforo Inteligente no estacionamneto do SENAI, evitando engarrafamento.
+Alunas do SENAI, cursando Desenvolvimento de Sistemas, criaram este espaço para desenvolver novos projetos de programação com o objetivo de semáforo Inteligente no estacionamneto do SENAI com acesso à semafóro de pedestres, evitando engarrafamento.
 
 Requisitos Funcionais:
 Arduino Uno
